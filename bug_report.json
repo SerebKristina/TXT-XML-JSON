@@ -1,0 +1,10 @@
+{"ID":"Number of bugs",
+"TITLE":"what?where?why?happened",
+"ENVIRONMENT":"all the details about the environment setup and configuration on which the app is running",
+"PRICONDITION":"a precondition for reproducing the bug",
+"STR":"steps to reproduce",
+"AR":"actual result",
+"ER":"expected result",
+"ATTACHMENTS":"screenshots,images or video files"
+}
+
