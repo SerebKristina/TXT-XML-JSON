@@ -1,0 +1,5 @@
+favourite film: The Imitation Game
+favorite series: Naruto
+favourite food: pizza
+favourite time of year: late summer
+the country: canada
